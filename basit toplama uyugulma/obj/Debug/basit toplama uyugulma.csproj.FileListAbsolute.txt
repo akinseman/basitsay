@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\basit toplama uyugulma\basit toplama uyugulma\bin\Debug\basit toplama uyugulma.exe.config
+C:\Users\User\source\repos\basit toplama uyugulma\basit toplama uyugulma\bin\Debug\basit toplama uyugulma.exe
+C:\Users\User\source\repos\basit toplama uyugulma\basit toplama uyugulma\bin\Debug\basit toplama uyugulma.pdb
+C:\Users\User\source\repos\basit toplama uyugulma\basit toplama uyugulma\obj\Debug\basit toplama uyugulma.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\basit toplama uyugulma\basit toplama uyugulma\obj\Debug\basit toplama uyugulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\basit toplama uyugulma\basit toplama uyugulma\obj\Debug\basit_toplama_uyugulma.Form1.resources
+C:\Users\User\source\repos\basit toplama uyugulma\basit toplama uyugulma\obj\Debug\basit_toplama_uyugulma.Properties.Resources.resources
+C:\Users\User\source\repos\basit toplama uyugulma\basit toplama uyugulma\obj\Debug\basit toplama uyugulma.csproj.GenerateResource.cache
+C:\Users\User\source\repos\basit toplama uyugulma\basit toplama uyugulma\obj\Debug\basit toplama uyugulma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\basit toplama uyugulma\basit toplama uyugulma\obj\Debug\basit toplama uyugulma.exe
+C:\Users\User\source\repos\basit toplama uyugulma\basit toplama uyugulma\obj\Debug\basit toplama uyugulma.pdb
